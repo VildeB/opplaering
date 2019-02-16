@@ -1,0 +1,14 @@
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\bin\Debug\netcoreapp2.2\helloweb.deps.json
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\bin\Debug\netcoreapp2.2\helloweb.runtimeconfig.json
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\bin\Debug\netcoreapp2.2\helloweb.runtimeconfig.dev.json
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\bin\Debug\netcoreapp2.2\helloweb.dll
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\bin\Debug\netcoreapp2.2\helloweb.pdb
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.csprojAssemblyReference.cache
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.csproj.CoreCompileInputs.cache
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.RazorAssemblyInfo.cache
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.RazorAssemblyInfo.cs
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.AssemblyInfoInputs.cache
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.AssemblyInfo.cs
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.RazorTargetAssemblyInfo.cache
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.dll
+C:\Users\vilde_000\Documents\programmering\opplaering\helloweb\obj\Debug\netcoreapp2.2\helloweb.pdb
