@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\vilde_000\\Documents\\programmering\\opplaering\\console2\\console2.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
